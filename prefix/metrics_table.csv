@@ -1,0 +1,8 @@
+prefix,MRR,MAP,P@1,P@3,P@5,P@15
+hyperonym: [hyperonym] | hyponyms: [hyponyms],0.3678,0.24199,0.28467,0.20278,0.20804,0.2814
+"find hyponyms for hyperonym: [hyperonym], target: [hyponyms]",0.40653,0.25254,0.32133,0.22667,0.22343,0.2716
+"find hyponyms for hyperonym: [hyperonym], target: [hyponyms] + all words lowercase'",0.3844,0.24743,0.298,0.21433,0.21697,0.27682
+"find hyponyms for hyperonym [hyperonym] with relationship [Cncept, Entity], target: [hyponyms]",0.35515,0.23321,0.258,0.19967,0.20132,0.27276
+question: what are hyponyms for hyperonym [hyperonym] ? | answer: _20_ [hyponyms],0.39487,0.25371,0.31,0.21867,0.21818,0.29226
+question: what are hyponyms for hyperonym [hyperonym] ? | answer: _20_ [hyponyms]+ select top20,0.3988,0.25522,0.31467,0.22022,0.21941,0.29341
+"answer question: what are hyponyms for hyperonym: [hyperonym] </s> ... , target: [hyponyms]",0.37524,0.24315,0.28267,0.21089,0.20879,0.28245
