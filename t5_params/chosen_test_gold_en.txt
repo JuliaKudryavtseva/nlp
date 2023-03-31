@@ -1,0 +1,600 @@
+0,malevolence	distaste	hatred	hate	malignity
+1,body armor
+2,exploration	adventurer	explorer
+3,proceedings	legal proceedings	proceeding	due process	legal proceeding
+4,thrower	baseball player	jock	person
+5,social function	usefulness	ceremonial	ceremonial occasion
+6,freedom	independence
+7,sandbank	animal group	bank	body of water
+8,wrongdoer	person	offender
+9,sheet	sheet glass	wall	partition	glass	plate glass	flat solid	panel
+10,imaginary creature	imaginary being
+11,actor	chess player	wrestler	person
+12,speaker system	electrical device	speaker	speaker unit
+13,album	indo-european language	audio system	app	music group	rock group	rock band	picture show	mathematical relation	west germanic languages
+14,tricyclic antidepressant	pharmaceutic	antidepressant
+15,city
+16,city
+17,spending	endnote	price
+18,static equilibrium	equilibrium
+19,person
+20,true bacteria	eubacteria	bacteria	micro-organism
+21,heraldry	artifact
+22,illness	sickness
+23,walkway	path
+24,rock band	video game
+25,weapon
+26,writer	newsperson	anchor	tv reporter	news presenter	person
+27,work of art	album	comic book
+28,piece of land	breeding ground
+29,land vehicle
+30,computing device	software program	pc game	franchising	series	app	electronic game	film production	application program	comic strip	applications programme	film making	computer	franchise	videogaming	computer programme	application software	computer game	film genre	comics	game console	cinematography	animation	platform game	applications software	software application	filming	electronic computer	video game	movie maker
+31,dance band
+32,foodstuff	food product
+33,polymer	synthetic resin	styrene	foam	vinyl resin	representational process	vinyl polymer
+34,motion	land vehicle	mass medium
+35,judge	map	state	vehicle
+36,alcoholic drink	drink	beverage
+37,pleasance	pause	freeing	state	surface	lessening	liberation	compensation	decrease	economic aid	pleasure	international assistance
+38,fictional character	reference
+39,point of reference	reference point	written agreement	agreement
+40,architect	minister	physicist	person
+41,amphibious assault	island	amphibious warfare	isle	atoll
+42,writer	novelist	person
+43,rule of evidence	guideline	rules of evidence	evidence
+44,legal expert
+45,authorities	polity
+46,medium	piece of work
+47,bodily function	response
+48,subatomic particle	particle
+49,singer	politician	person
+50,priest	minister
+51,investment
+52,disagreeable person	unpleasant person	biofilm
+53,person	bookman	biochemist	student
+54,wrongful act	decease	death	cause of death	immorality	unnatural death	killer	anti-social behaviour	ending	putting to death	homicide	kill	crime	law-breaking	wrongful conduct	termination	voluntary action	killing	lawsuit	wrongfulness
+55,seed plants
+56,caregiver	health professional	primary care provider
+57,country	landlocked country
+58,body part	internode	boxes	coffin
+59,person	worker
+60,semiconductor	durable good	computer chip	circuit	durable goods	semiconducting material	durables	processor	electronic equipment
+61,party	group event	social occasion	social event
+62,purchase	buy	purchasing	business process
+63,subsemigroup	semigroup	groupoid
+64,technical specification	measure	mapmaking	first derivative	computation	devising
+65,intermediator	go-between	mediator	negotiator	intermediary	person	chief	leader
+66,butter
+67,story	task	television series	film	binary relation	novel	whodunit	wit	detective story	mass medium	funnies	detective
+68,horse	album
+69,shape	transportation	form	constructed structure	algebraic structure	technical specification
+70,person	counsel	advocate	legal expert
+71,length	dimension	size
+72,person
+73,undertaking
+74,firm	publisher	video game publisher	corporation	company	enterprise	video game developer	software developer	programmer	developer
+75,corporate executive	direction	television producer	producer	associate	film producer	person
+76,firm	record label	label	corporate identity	mark
+77,clothing	clothes
+78,concern	enterprise
+79,military vehicle	passenger transport	naval ship	traveling	ship transport	transport	means of transportation	watercraft	travel	land vehicle	mechanism	travelling	movement
+80,text	textual matter	written document	computer file	sign
+81,producer	fictitious character	corporation	signal	public press	venture	country	mass medium
+82,tourist attraction
+83,satellite	medium	software package	data storage device	musical work	host	mode of transport	transport
+84,footballer	person
+85,responsibility	agreement	contract
+86,electronic circuit	application programming interface	interface
+87,godhood	life	code	free energy
+88,webpage	medium	textfile
+89,heavenly body	celestial body	astronomical object	planetoid
+90,person
+91,written language	formal language	processing	database	written communication	utility software	mathematical model	example	constructed language	utility
+92,dressmaking
+93,criticism	accusation	charge	unfavorable judgment	criminal charge	reprimand	reproof	reproach	disapproval
+94,technologist	person
+95,management	career	language
+96,company	firm	enterprise
+97,athlete	olympic sport
+98,termination	surrender	relinquishing
+99,technical specification	specifications	fundamental quantity	fundamental measure	duration	time period	period of time
+100,public building	constructed structure	living accommodations
+101,drama	dramatic play
+102,paving	surface	stone
+103,warrior	person
+104,comforter	linens	needlecraft	blanket	bedclothes
+105,telecommunication	constructed structure	signal	visual signal	sign	engineering physics	engineering	signaling
+106,chocolate tree
+107,pharmaceutical drug	antiprotozoal
+108,suburban area	city	school	brand	university
+109,shopping
+110,grammatical category	signal	music notation	form class	mark	musical notation	signaling	representational process	measure	written symbol	musical note
+111,wave	movement
+112,homicide	lawbreaking	finish	crime	offence	slaying	criminal offense	killing	removal	putting to death	death	kill	emission	discharge	wipeout	termination	ending	demolition
+113,nobleman	noble	form of address	title	title of respect	boss	dictionary entry	prefix	aristocrat
+114,drink
+115,fictitious character	transmission channel	song
+116,polity	compounding
+117,idiom	grammatical construction	phrase	expression	set phrase	word play
+118,mammal	antelope	animal
+119,herb	tracheophyte
+120,energy
+121,ideal	commitment	allegiance
+122,horse	equine	animal
+123,city	mathematical relation	channel
+124,dike	dyke
+125,electronics	macrocosm and microcosm
+126,film director	filmmaker	person
+127,person	student
+128,category	control	placement	periodical literature	mapping	arrangement
+129,amusement	entertainment	series
+130,school	state school	constructed structure	school system	academy	educational institution	public building	ceremonial occasion
+131,state	natural phenomenon
+132,salt	dirt
+133,piece of music	film	song
+134,town
+135,album	dj	record album
+136,company
+137,electronic media	perception	show	perceptual experience	television show	moving-picture show	film	visual percept	visual aspect	work of art	tv program	goal	television series	movie	perceptible	appearance	tv show	engineering physics	percept	sensory activity
+138,contestant	playwright	person
+139,battle	fight	difference of opinion
+140,title	diplomat	person
+141,employee	agricultural laborer	peasant	working man	farm worker
+142,organic solvent	cosmetic	musical composition	jar
+143,regime
+144,ill-treatment	pain	distress	ill-usage	falsification	maltreatment	mistreatment	hurt	suffering	abuse	clinical symptom	persecution	misconduct	wrongdoing
+145,cordgrass	grass
+146,tracheophyte	optical instrument
+147,mistreatment
+148,electrical load
+149,veg	signal	magnitude relation	energy	vibration
+150,city district	precinct	urban district
+151,inclosure	coop	cage	constructed structure
+152,rapper	producer	actor	person
+153,constructed structure	house of prayer	house of god	place of worship	house of worship
+154,specifications
+155,metallic element
+156,cricketer	sportsperson	person
+157,warfare	military action	war
+158,boutique	retail store
+159,maneuver	decision	pick	tactical manoeuvre
+160,jack	helmsman	person
+161,leader	master	person
+162,constructed structure	country house
+163,cyclic nucleotide
+164,textile	piece of cloth
+165,wader	shore bird	structural member	series	fundament	upright
+166,sculpture
+167,misfortune	disaster	danger	catastrophe	slick	hazard	environmental disaster	endangerment	calamity	trouble	tragedy	risk
+168,educationist
+169,source text	periodical publication	communication medium
+170,landed estate	plant	parcel	estate	planting	landed property	plot of land	parcel of land	piece of land	derivative	piece of ground	garden
+171,school text	investigation	methodology	textbook	method
+172,protective clothing	coat of mail	protection
+173,talk
+174,poet	person	writer
+175,animal
+176,textile	cloth	fabric
+177,country	energy	work of art
+178,person	writer
+179,tv show
+180,town	township	land site
+181,native plant
+182,psychic communication	extrasensory perception
+183,data file	computer file	software program	data formatting	standard	system software	utility program	systems program	textfile	systems software	software	markup language	computer software
+184,country	gov	political system	governing	government
+185,running away	escape
+186,electrical device
+187,movie	moving-picture show	picture show	show
+188,information processing system	computer
+189,claim	justification	pardon	explanation	assertion	asseveration
+190,basketball player	sportsperson	person
+191,casing	protective cover	overgarment	clothing	housing	wrapping	clothes
+192,person	bookman	recipient	intellect	intellectual
+193,constancy	visual property	race	timbre
+194,wrongful act	murder	misconduct	slaying	first-degree murder	wrong	kill	capital crime	offense	killing	execution	evildoing	legal case	homicide	death	death penalty	mob	trial	summary execution	corporal punishment	criminal offense	penalization	wrongfulness	putting to death	cause of death	wrongdoing	wrongful conduct	conclusion	criminal offence	death sentence
+195,disturbance	illness	disorder	psychological disorder
+196,economic sector	mentation
+197,explosive device	weapon	arm
+198,singer	writer	person
+199,basin
+200,economic process
+201,theater	classical	person	opera
+202,devising	cartography	integral	parcel of land	tract
+203,tv show
+204,porch
+205,country
+206,club	frat
+207,grammatical relation
+208,town
+209,medicine	anticoagulant
+210,disorder	viral infection	communicable disease
+211,health care	care
+212,counting number	definite quantity	area of mathematics
+213,manufacture	decoration
+214,motion	application	database management system	practical application	utilization	usage	movement	communication medium	mechanism
+215,main road
+216,heaven	social event	company	firm
+217,writer	commentator	person
+218,cinematography	filming	film genre
+219,religious person	person	pope
+220,decline	lessening	reduction
+221,donor	benefactor	person
+222,protective covering	peripheral equipment	doorframe	picture
+223,freeway	bridge	throughway	thruway	motorway	way	constructed structure	route	expressway
+224,source code	sending	transmission	proposal	forwarding	method	procedure
+225,news	text
+226,person	boss
+227,form
+228,wrongdoer	criminal	person
+229,olympic sport	sport
+230,surface	body covering	connective tissue
+231,antagonist	person
+232,binary relation	function	mathematical function	mapping	mathematical relation
+233,clothes	clothing	cap
+234,composer	musician	person
+235,regularity
+236,motion	food energy	move	coding system	breath	weather	atmospheric condition	weather condition
+237,electoral system
+238,magnitude
+239,crunch	constructed structure	rubbing	mechanism	crush	equipment	complex	mechanical assembly	mechanical phenomenon	friction	industrial plant	machinery
+240,indulging	indulgence	merrymaking
+241,locale	island	castle	plot of land	isle
+242,technical specification	measure	mapmaking	sign	depiction	aim	signaling	measurement	junction	configuration	contour	graphic symbol	linear unit	extremity	connexion	punctuation	mark	mathematical notation	punctuation mark	connector
+243,malefactor	criminal	bandmember	sportsperson	person
+244,broadcast	perception	tv program	look	moral philosophy	video recording	looking	ideal	television show	tv series	looking at	sensing
+245,bone	general anatomy	body structure	anatomical structure
+246,u.s. state	american state	song	state
+247,flag	flick	work of art	short film	cinematography	animated film	motion picture
+248,star	abstract object
+249,communism	worldview	economic system	system of rules	social control	socialism	social order	way	communist	method	perspective
+250,natural phenomenon	liquid state	chemical phenomenon	alcohol	fluid
+251,time period
+252,person	scholar
+253,console	videogaming	computer game
+254,pharmaceutical drug	hypoglycemic agent	medicinal drug
+255,person	offender	aggressor	bad person	attacker	assailant	assaulter	wrongdoer
+256,form of address	title of respect	title	word string	affix	string of words	prefix	honorific	constituent
+257,political corruption	trouble	corruption
+258,unfortunate person	godhood	holy person	person
+259,warfare	moving picture	hoofed mammal	data storage device	narrative mode	literary composition	personal name	fiction	psychological thriller	television show	given name	storage device	film
+260,morpheme	person
+261,spoilage	packaging	visual art	database management system
+262,person	holder	politician	lawyer
+263,function	string of words	bodily process	acknowledgment	language	body process	bodily function	phrase
+264,state	doctrine	philosophy	prosperity
+265,data
+266,mammal	equine	animal	hoofed mammal
+267,drink	soda	capital	country
+268,city
+269,lawbreaking	offense	law-breaking	offence	unrighteousness	criminal offense	crime	unlawfulness	transgression	dupery	wrongdoing	falsification	misconduct	unjustness	criminal offence
+270,economist	person
+271,ecologist	photographer	person
+272,disease	communicable disease
+273,work of art	medium	periodical publication	mass media	facility	periodical literature	transmission channel	company	storage medium	public press	mechanical assembly	channel	periodical	enterprise	publishing company	print media	communication medium	mass medium
+274,electrical device
+275,public building	facility
+276,information processing system	network	durable goods	income	mechanism	telecom equipment	telecommunication equipment	component-based software engineering	computer program	soccer	liquidity	electronic network	fabric
+277,work of art	medium	data storage device	storage medium	storage	mapping	data-storage medium
+278,school	high school
+279,placentation
+280,work of art	travelling	travel	movement
+281,maltreatment
+282,plant	cereal grass	herbaceous plant
+283,world	reality
+284,atmospheric condition
+285,identification	speech	string
+286,baseball player	sportsperson	person
+287,unit of volume	bottle
+288,toy	clothes
+289,person	dancer
+290,medical science	surgical procedure	surgical operation	medical procedure	practice of medicine	medicine	surgery	surgical process
+291,infrastructure	celestial navigation	superhighway	expressway	mode of transport	sport	navigation	musical work
+292,film director	person
+293,written document
+294,apartment house	edifice	constructed structure
+295,shame
+296,arrangement	movement
+297,mathematical model	model
+298,physical property	constructed structure	measure	spacing	storey	measurement	spatial relation	distance formula	metrology	level	highth
+299,body part	os	grounder	knife
+300,policy	single-valued function	binary relation
+301,specifications	technical specification
+302,acid
+303,spectral color	plant
+304,cancellation
+305,alloy	lanthanoid	musical note	note	metal
+306,hat
+307,fluid
+308,military leader	person
+309,anthropologist	person
+310,catholic	christian	clergyman	diocese	bishopric	person	priest	holy order	religious person	priesthood
+311,mode of transport	jet
+312,socio-economic class	social class
+313,module
+314,micro-organism	antibiotic
+315,woody plant	plant
+316,task	moving picture	television series	show
+317,measuring	measurement	text
+318,sociologist	economist	person
+319,outcome	chemical process	artifact
+320,accent	diacritic	death	excavation
+321,person
+322,physicist	person
+323,school	scheme	university
+324,person
+325,electromagnetic wave	telecommunication	equipment	telecom	receiving system	communication system	electronic equipment	communication medium	wireless	transmission	broadcasting	communication device	mass media	receiver	mass medium
+326,food product
+327,person
+328,phenomenon	film	happening
+329,musical style	popular music	music genre
+330,science museum	museum
+331,food product	crop
+332,difference	dispute	reasoning	difference of opinion	discussion
+333,mass unit	weight	unit of mass
+334,accidental injury	misfortune	misadventure	damage	mischance	injury
+335,ethnos	indigenous	ethnic group
+336,food product
+337,move	reaching
+338,initiate	tiro	person
+339,bag	armor	clothes	delivery
+340,void
+341,mountain	crest
+342,academy	school	educational institution	university
+343,flyer	person
+344,loaner	lender	investor	person
+345,resistance
+346,seafarer	sea dog	person
+347,progeny
+348,taxation
+349,prevalence
+350,morpheme	string	lexical item
+351,coinage	euro coin	monetary unit	bill	euro coins	note	legal tender	mintage	metal money	coin
+352,frat	sorority
+353,poet	writer	musician	person
+354,person	worker	supporter	helper
+355,conjunction
+356,taste sensation	technical specification	sense experience	specifications	savour	aroma	aesthesis	sense impression	sensory faculty	five senses
+357,site	parcel of land	county	piece of land	election district	land site	counties of england	precinct	piece of ground	voting precinct
+358,group event	sport
+359,cosmologist	person
+360,icon	mark	indicator	dog	dog breed	animal
+361,good example	example	sample
+362,net	computer program
+363,octopod	marine animal	marine ecology	seafood	mollusk	marine creature	animal
+364,leader	politician	person
+365,arrival
+366,person
+367,machine learning
+368,body of water	river
+369,student	person	intellectual	scholar	scholarly person
+370,teacher	person
+371,mentation
+372,explorer	person
+373,doc	pcp	person
+374,deity	godhood
+375,hoofed mammal	mammal	equid	equus	animal	town
+376,album
+377,drinkable	alcohol	liquid state	brew	drink	fluid	drug	alcoholic drink
+378,blow	motion	animal locomotion	effect
+379,horse	ungulate
+380,picture	lyricist	bandmember	show	season	economic system	music group	business organization	tv series	competition	business organisation	juridical person	impact crater	film	concern	novel	person	movie	rock group	rock band	human voice	card game	magazine	team	contestant	motion picture
+381,mathematician	person
+382,soil
+383,japanese food
+384,soup
+385,linguistic unit
+386,storm	tempest	hazard	violent storm
+387,carbohydrate	saccharide	macromolecule	sugar
+388,discrimination	racism	racial discrimination
+389,mechanism	motor
+390,memory device	set theory	circle	storage
+391,cell	skin cell	epidermal cell
+392,body waste	approach shot	work of art	tater	country	semiconductor	dogpile	ordure
+393,politician	parcel	authorities	country	local government	parcel of land
+394,mode
+395,power tool	power hammer
+396,untruth	protection
+397,sportsperson	athlete	person
+398,wheeled vehicle	vehicle
+399,sleeping
+400,malignancy	diagnosis	tumor	illness	sickness
+401,technical specification	specifications	price	spending	retail price	cost	expenditure
+402,phenomenon	cold front	weather front	atmospheric phenomenon	physical phenomenon	polar front	natural phenomenon	atmospheric circulation
+403,lover	person
+404,crystal	jewelry
+405,broadcaster	media professional	person
+406,fashion accessory	clothing	scarf
+407,city	musical film	silent film	transportation stop	show	locale	piece of music	song	mapping	musical	film
+408,song	piece of music	album
+409,constructed structure
+410,tourism
+411,piece of furniture
+412,person
+413,automotive vehicle	land vehicle	truck
+414,reflex response	bodily function	instinctive reflex	bodily process	reflex action
+415,crime	selfish person	criminal offence	self-seeker
+416,instant	example
+417,world
+418,perfidy	banking concern	data modeling	example
+419,plant	grass	grass family
+420,written language	portraying	trade name	image	program line	sign	legal name	code	marker	portrayal	brand image	marking	written communication	trademark	mark	theme	icon	name brand	brand
+421,time interval	map	designated place	channel	free space	specifications	emptiness	broadcast station	mass medium
+422,intractability	intractableness	rebelliousness	resistance	insubordination
+423,government agency
+424,pension account
+425,molecular entity
+426,competitor	person	unfortunate person	unfortunate	contestant	gambler
+427,natural process	human process	chemical process
+428,sailboat	travel	watercraft	boat	ship
+429,mathematician	person
+430,angiosperm	bird
+431,specifications	animal locomotion
+432,consumer durables	data processor	information processing system	durable good	durable goods	electrical appliance	mechanism	household appliance	computer	electronic computer
+433,nazi concentration camps	nazi concentration camp	concentration camp	correctional facility	camp	penal institution	forms of energy	jail	prison	prison house
+434,designer
+435,person	adventurer	explorer	conquistador
+436,organ	endocrine	endocrine gland	endocrine system	body part	ductless gland
+437,mogul	entrepreneur	investor	business magnate
+438,fast food joint	restaurant	quick service restaurant	public building	services	eating house
+439,equilibrium	economic equilibrium
+440,electric energy	energy
+441,medical science	delivery	book	learned profession	surgery	technology	surgical process
+442,geological time	geologic time	geologic timescale	time interval	algebra
+443,body part	veggie	flavouring
+444,moth	animal
+445,electronic computer	information processing system	computing machine
+446,landed estate	observable	landed property	scientific research	bounds	surface	acres	map	research project	physical phenomenon	mapping	real property
+447,jump	time of year	time period	season
+448,fee	terms
+449,fault	illustration
+450,country	sea nymph
+451,inflammation	flushing
+452,lineage	parentage	blood line	descent
+453,true love	passionateness	passion	love
+454,motion	stroke	move	movement
+455,writer	person
+456,trustworthiness	responsibleness
+457,person	rabbi
+458,denseness	storm
+459,town	fictional character	person
+460,penal institution
+461,arachnid
+462,transportation	price	freight transport	shipping	charge	cost	charge per unit	transport
+463,paper	mag	mass media	gazette	journal	film
+464,snack food	dish	snack	corn chip
+465,county courthouse	constructed structure	administrative centre	vehicle	military plane	crew member	aircraft	scholarly person	body of water	river
+466,piece of furniture	backseat
+467,racing driver	driver	motorist	person
+468,stone	pebble	rock
+469,handing over	circuit	team sport	expansion card	competition	electrical device	electrical switch	electrical circuit	olympic sport	sport	group event	transport	contest	electric circuit	electronic equipment	semiconductor	switch	race	electric switch	board	electrical network	team	olympic sports	electronic circuit	track and field
+470,person	writer
+471,person	worker
+472,closing
+473,assets
+474,terminal	airfield	airport	transportation stop
+475,police officer
+476,boss
+477,legislative act
+478,verbal expression
+479,somatic cell	constituent	bone cell	cell
+480,person	chief of state
+481,franchise	suffrage
+482,vendor	network host	product marketing	move	passenger transport	wheeled vehicle	shooter game	seller	marketer	traveling	transportation	vender	movement	dealer	computer software
+483,technical specification
+484,public building	constructed structure
+485,calculation
+486,bookman	intellectual
+487,installation
+488,food fish	saltwater fish	fish	seafood
+489,emotionality	emotionalism	affect
+490,caregiver
+491,os	organ
+492,windstorm	tropical cyclone	weather	atmospheric condition	cyclone	natural phenomenon
+493,facility
+494,written language	written communication	epistle
+495,software program	console	video game console
+496,code	company	firm	software
+497,person	footballer	sportsperson
+498,pane of glass	peripheral device	sheet	sheet glass	period of time	display	plate glass	pane	flat glass	time period	panel	glass
+499,money	stolen property
+500,politician	person
+501,wave	sport
+502,internet site	electronic media	network	website
+503,giant	deity	monster
+504,time unit	calendar day	working time	standard	rate	time standard	unit of time	fundamental measure	measure	work time	dimensionless quantity	time period	period of time
+505,measuring	calibration	emotionality	emotionalism	measure	readjustment	magnitude	standardisation	registration	adjustment
+506,reparation	financial compensation	repair	spending	mending	compensation	cost	expenditure	recompense	payment
+507,leatherworker	animal product
+508,stimulus	mental image	image
+509,data processor	computer architecture	architecture
+510,person	eating house	foodservice	restaurant
+511,person	ending
+512,strength	sprightliness	level	specifications	invigoration	spiritedness	liveliness	grade	animation	intensiveness	spirit
+513,cutting tool	drill	cutter	drill press	cutting implement	machine tool
+514,person	juridical person	service	concern
+515,body part	musculus	contractor
+516,town	city
+517,time period	period of time
+518,volume unit
+519,architectural element	barrier	entryway	entrance	passage	obstruction	entry	entranceway
+520,sound	noise
+521,writer	person
+522,body process
+523,job market	market place
+524,adversity	mistreatment	bad luck	tough luck	fate
+525,tum
+526,meeting	group meeting
+527,railway car	car	railway carriage	railroad car	travelling	transport
+528,motion	land vehicle	locomotive
+529,hostility	aggression	rage
+530,protocol	software program	console	software
+531,attending
+532,enzyme
+533,adp system	level
+534,nucleic acid sequence
+535,article of commerce	asset
+536,finding	choice	selection	choosing	conclusion
+537,sportswoman	person
+538,weight unit	metric unit
+539,code	software	computer code	computer software
+540,parish	given name
+541,point of reference	interpretation	rendering	interpreting	rendition	constituent
+542,intromission
+543,music genre	musical style
+544,reflexion
+545,clothing	hiding	garb	clothes
+546,debt instrument	legal tender	note of hand	coin
+547,h2o	drug
+548,time period	period of time
+549,igneous rock	rock
+550,political leader	possessor
+551,imperial units	english units	imperial system	metric	unit of length	linear unit	system of measurement	british system	linear measure
+552,engine	aircraft engine	atmosphere	combustion	transportation	burning	turbomachine	mode of transport	propulsion	rocket engine	mechanism	motion	conveyance	motor	heat engine	turbine	movement	weapon system	rocket motor
+553,spatial relation
+554,judgement
+555,business organisation	air carrier	business organization
+556,broadcaster	c-suite
+557,software	user interface	interface
+558,town	city
+559,antipsychotic drug	recreational drug use	environment	metallicity	alloy	downer
+560,transmission	transmission channel	channel
+561,thespian	person	comic	comedian	actor
+562,specifications	disease
+563,arrival
+564,whole number	natural number	integer
+565,illness	medical research	sickness	diagnosing	disease	nephropathy	diagnosis	renal disorder	pathology
+566,literary work	fiction	narrative
+567,magnitude	wave
+568,noble gas	gas
+569,hill	natural elevation
+570,recording	perception	tv program	look	enquiry	series	looking	tv show	investigation	television show	investigating	inquiry	looking at
+571,edible nut	plant	plant structure	structural biology	engineering	seed	plant part
+572,sawing machine	sawblade	saw	power tool	hand tool
+573,igniter	microcomputer	electrical conductance	electronic component	party	resistor
+574,weapon	mechanism	projectile
+575,transferred property
+576,vestment	clothes
+577,natural process
+578,person	intellectual
+579,category	mould	data file	political economy	file	specifications	model
+580,effort	venture	project
+581,town	city
+582,show	series	literary composition	monster	film production	imaginary being	literary work	movie maker	computing platform	film	story	movie	television film	fiction	platform	tv show	cartoon character	tv series	feature film	fictional character	television show	serial	tv program	television series	silent movie	fictitious character	television program
+583,unconsciousness	illness	pathological state	disease	sickness
+584,thoroughfare	pike	thruway	throughway	state highway	motorway	turnpike
+585,person	cricketer	sportsperson
+586,tertiary source
+587,musical work	single	song
+588,acid	nucleic acid
+589,city	boss	head of state
+590,news story	piece of work
+591,nodule	sedimentary structures
+592,fixture
+593,database	measurement
+594,lithography
+595,literary work	book
+596,textile	cloth	clothing	fabric	clothes
+597,church building	house of god	constructed structure	public building	house of prayer	church	house of worship	place of worship
+598,person	sovereign	king of france	king
+599,means of transport	military unit	image	naval ship	mode of transport
