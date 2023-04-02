@@ -2,6 +2,5 @@ prefix,MRR,MAP,P@1,P@3,P@5,P@15
 "find hypernyms for hyponym: [CHILD] , target: [PARENTS]",0.41024,0.2557,0.32267,0.22956,0.22899,0.27718
 hyponym: [CHILD] | hypernyms: [PARENTS],0.39409,0.25061,0.30867,0.22044,0.21683,0.28208
 what are hypernyms for hyponym [CHILD] ? [PARENTS],0.37119,0.24918,0.28267,0.21067,0.21613,0.29124
-question: what are hypernyms for hyponym [CHILD] ? answer: [PARENTS],0.41452,0.25872,0.33333,0.23033,0.23152,0.281
 question: what are hypernyms for hyponym [CHILD] ? | answer: [PARENTS],0.4063,0.26081,0.32267,0.22644,0.23028,0.28664
 question: what are hypernyms for hyponym [CHILD] ? | answer: [PARENTS] + select top20,0.40687,0.26098,0.32333,0.22667,0.23041,0.28675
